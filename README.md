@@ -393,7 +393,7 @@ This repository is a one-stop resource for learning Kubernetes with hands-on exa
 ## Project Maintainers & Contributors  
 <table>
   <tr>
-    <td align="center"><a href="https://pranithaveliverthi.github.io/profile/">" width="100px;" alt=""/><br /><sub><b>Anvesh Muppeda</b></sub></a></td>
+    <td align="center"><a href="https://pranithaveliverthi.github.io/profile/"><br /><sub><b>Pranitha Veliverthi</b></sub></a></td>
     
   </tr>
 </table>  
